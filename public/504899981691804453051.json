@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284289145371",
+    "project_id": "yellowwallpaper-37cfc",
+    "storage_bucket": "yellowwallpaper-37cfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284289145371:android:91da94d277b2d1ea9db6be",
+        "android_client_info": {
+          "package_name": "com.zggamesstudio.yellowwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284289145371-64cnq2rlca7hd8j801g36e7s1uh8ph3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY40GqzutHVdSUnMb0XHRuje7m4_szdx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284289145371-64cnq2rlca7hd8j801g36e7s1uh8ph3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
